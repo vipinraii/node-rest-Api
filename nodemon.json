@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PASS":"node-restApi",
+        "JWT_KEY":"secret"
+    }
+}
